@@ -85,7 +85,7 @@ DATABASES = {
         'HOST': 'master01.k8s.freedom.org',
         'PORT': '30989',
         'USER': 'password_bank',
-        'PASSWORD': 'password_bank_2@220102'
+        'PASSWORD': 'Password_bank_2@220102'
     }
 }
 
